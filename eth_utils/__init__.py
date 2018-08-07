@@ -41,6 +41,7 @@ from .conversions import (  # noqa: F401
 )
 from .crypto import (  # noqa: F401
     keccak,
+    blake2b,
 )
 from .currency import (  # noqa: F401
     denoms,
